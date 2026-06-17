@@ -7,26 +7,24 @@ Currently studying **Computer Science** at Shanghai Electric Power University (1
 ---
 
 ### 🚀 Current Project
-**Solo Leveling Task Manager** — A gamified personal growth app with RPG elements (levels, ranks, titles, stats) and planned AI-powered task generation based on user characteristics and interests.
+**System: AI-based task manager** — A gamified personal growth app with RPG elements (levels, ranks, titles, stats) and planned AI-powered task generation based on user characteristics and interests.
 
 **Tech stack**: Flutter, Dart, OpenAI/Gemini API (in progress)
-
-[View Project →](link-to-repo)
 
 ---
 
 ### 🛠️ Skills
-- **Mobile**: Flutter (Dart), basic C#
+- **Mobile**: Flutter (Dart), C#
 - **Languages**: Python, HTML/CSS/JS
 - **Tools**: Git, Firebase, REST API
-- **Languages**: Russian (Native), English (C1), Chinese (HSK 5)
+- **Languages**: Russian (Native), English (C2), Chinese (HSK 5)
 
 ---
 
 ### 📌 Featured Projects
 
-- **[Geotextile Sales Website](link-to-new-repo)** — Redesigned e-commerce website for geotextile products (before/after)
-- **[Solo Leveling Task App](link-to-app-repo)** — Gamified productivity application (in development)
+- **[Geotextile Sales Website](https://github.com/Bobidze/geotextile-website)** — Redesigned e-commerce website for geotextile products (before/after)
+- **[System: AI-based task manager](link-to-app-repo)** — Gamified productivity application (in development)
 
 ---
 
@@ -38,8 +36,8 @@ Currently studying **Computer Science** at Shanghai Electric Power University (1
 ---
 
 ### 📫 Get in touch
-- Telegram: @yourusername
-- Email: your.email@example.com
+- Telegram: @meowuchkin
+- Email: tarasyuk.nikita020206@gmail.com
 - [LinkedIn](link) (если есть)
 
 ---
