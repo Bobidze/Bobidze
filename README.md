@@ -38,7 +38,6 @@ Currently studying **Computer Science** at Shanghai Electric Power University (1
 ### 📫 Get in touch
 - Telegram: @meowuchkin
 - Email: tarasyuk.nikita020206@gmail.com
-- [LinkedIn](link) (если есть)
 
 ---
 
