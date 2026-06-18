@@ -9,7 +9,7 @@ Currently studying **Computer Science** at Shanghai Electric Power University (1
 ### 🚀 Current Project
 **System: AI-based task manager** — A gamified personal growth app with RPG elements (levels, ranks, titles, stats) and planned AI-powered task generation based on user characteristics and interests.
 
-**Tech stack**: Flutter, Dart, OpenAI/Gemini API (in progress)
+**Tech stack**: Flutter, Dart, OpenAI/Gemini API
 
 ---
 
