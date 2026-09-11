@@ -33,7 +33,7 @@ A personal-growth app with RPG mechanics — levels, ranks, titles, an attribute
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Interests
 
 - Advanced Flutter architecture & state management
 - Cleaner AI integration patterns for mobile
